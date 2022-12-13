@@ -1,2 +1,3 @@
 # Python-Day-2-Google-signin-with-Django-
-![image](https://user-images.githubusercontent.com/115413348/207429788-9ce40a22-940b-4ea8-80f2-abf0438a9716.png)
+
+![snap](https://user-images.githubusercontent.com/115413348/207429960-2ea4ad97-b072-476e-87f3-34a5dce51725.png)
